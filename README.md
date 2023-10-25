@@ -12,7 +12,7 @@ In this project is would like to explore the following:
 -  Which were the best months for sales per year.
 -  Which product line sells the most in best month.
 -  Who are the best customers (This could be best answered with RFM)
--  What products are most often sold together
+-  What products are most often sold together.
 
 ## Steps of the project
 - Obtain the data required for the analysis and importing it to the database
